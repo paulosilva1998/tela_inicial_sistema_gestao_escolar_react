@@ -15,3 +15,7 @@ Desenvolvimento de Sistemas. Neste contexto, nós deveriamos criar um site simpl
 ![Captura de tela 2025-02-10 122553](https://github.com/user-attachments/assets/777af35c-e6e0-44f9-90be-5e02d42bc893)
 
 ## Vídeo rodando e usando o site!! 
+
+https://github.com/user-attachments/assets/1d79ac33-e012-4a79-b117-ac7a3c29dcc4
+
+
